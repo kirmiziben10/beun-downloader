@@ -1,0 +1,4 @@
+#You need to go to your class and right click copy the videos link. Copying the url from the top of the video works too.
+#There will still be failed downloads i couldn't get the request to json to work properly so i did whatever i can to make it work most of the time.
+#You have to enter the video url line by line.
+#NOT THE DIRECT DOWNLOAD LINK THAT IS THE WHOLE POINT
